@@ -1,0 +1,13 @@
+{
+  "name": "Price Calculator",
+  "description": "Redirect to a webpage which allows to calculate the price",
+  "details": "",
+  "favicon": {
+    "path": "./unnamed.png"
+  },
+  "url": "https://paps-map.now.sh",
+  "developer": "Madiodio",
+  "abilities": {
+    "topbar-menu": true
+  }
+}

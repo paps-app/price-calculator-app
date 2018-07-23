@@ -1,14 +1,15 @@
-[{
-  "type": "button",
-  "name": "Calculez un prix",
-  "icon": "fa fa-thumbs-o-up",
-  "location": "app.settings.managers",
-  "functionalize": {
-    "internal_functionality": false,
-    "url": "https://paps-map.now.sh",
-    "target": "_blank"
-  },
-   { 
+[
+  {
+    "type": "button",
+    "name": "Calculez un prix",
+    "icon": "fa fa-thumbs-o-up",
+    "location": "app.settings.managers",
+    "functionalize": {
+      "internal_functionality": false,
+      "url": "https://paps-map.now.sh",
+      "target": "_blank"
+    },
+  { 
     "type" : "button",
     "name" : "Driver",
     "location" : "app.settings.workflow",
@@ -18,5 +19,5 @@
       "url" : "/#/app/dashboard",
       "target" : "_self"
     }
-   }
-}]
+  }
+]

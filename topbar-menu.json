@@ -1,4 +1,4 @@
-{
+[{
   "type": "button",
   "name": "Calculez un prix",
   "icon": "fa fa-thumbs-o-up",
@@ -8,4 +8,4 @@
     "url": "https://paps-map.now.sh",
     "target": "_blank"
   }
-}
+}]

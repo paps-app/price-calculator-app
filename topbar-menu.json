@@ -2,7 +2,7 @@
   {
     "type": "button",
     "name": "Calculez un prix",
-    "icon": "./price-icon.png",
+    "icon": "fa fa-money-bill-alt",
     "location": "app.settings.managers",
     "functionalize": {
       "internal_functionality": false,

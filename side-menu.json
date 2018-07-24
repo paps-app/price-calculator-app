@@ -1,0 +1,50 @@
+ [ {
+    "type" : "button",
+    "name" : "Dashboard",
+    "icon" : "./dashboard.png",
+    "functionalize" : {
+        "internal_functionality": true,
+        "url" : "#/app/dashboard",
+        "target" : "_self"
+    }
+  },
+  {
+    "type" : "button",
+    "name" : "Employee",
+    "icon" : "./employee.png",
+    "functionalize" : {
+        "internal_functionality": true,
+        "url" : "#/app/settings/agents-list",
+        "target" : "_self"
+    }
+  },
+  {
+    "type" : "button",
+    "name" : "Customer",
+    "icon" : "./customer.png",
+    "functionalize" : {
+        "internal_functionality": true,
+        "url" : "#/app/all-customers",
+        "target" : "_self"
+    }
+  },
+  {
+    "type" : "button",
+    "name" : "AgentDemo",
+    "icon" : "./agent.png",
+    "functionalize" : {
+        "internal_functionality": true,
+        "url" : "#/app/agentdemo",
+        "target" : "_self"
+    }
+ },
+    {
+        "type" : "button",
+        "name" : "Analytics",
+        "icon" : "./analytics.png",
+        "functionalize" : {
+            "internal_functionality": true,
+            "url" : "#/app/analytics",
+            "target" : "_self"
+        }
+    }

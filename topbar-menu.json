@@ -2,7 +2,7 @@
   {
     "type": "button",
     "name": "Calculez un prix",
-    "icon": "fa fa-thumbs-o-up",
+    "icon": "fa fa-money",
     "location": "app.settings.managers",
     "functionalize": {
       "internal_functionality": false,
